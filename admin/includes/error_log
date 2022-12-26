@@ -1,0 +1,4 @@
+[06-Oct-2021 06:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/sparrowtechnolog/public_html/businessidea/admin/includes/db.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sparrowtechnolog/public_html/businessidea/admin/includes/db.php on line 13

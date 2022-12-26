@@ -1,0 +1,218 @@
+[15-Jun-2021 15:42:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_login.php on line 11
+[15-Jun-2021 15:42:09 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_login.php on line 12
+[15-Jun-2021 10:37:42 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:37:42 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:37:42 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:37:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:37:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 9
+[15-Jun-2021 10:37:55 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:37:55 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:38:10 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:38:10 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:38:10 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:38:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:38:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 9
+[15-Jun-2021 10:38:24 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:38:24 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 2
+[15-Jun-2021 10:38:24 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:38:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 8
+[15-Jun-2021 10:38:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/getsubcat.php on line 9
+[15-Jun-2021 12:09:04 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 2
+[15-Jun-2021 12:09:04 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 2
+[15-Jun-2021 12:09:04 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 3
+[15-Jun-2021 12:09:04 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 3
+[15-Jun-2021 12:09:04 UTC] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 12:09:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 12:09:04 UTC] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 12:09:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 12:09:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compress() in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 15
+[15-Jun-2021 12:09:18 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 2
+[15-Jun-2021 12:09:18 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 2
+[15-Jun-2021 12:09:18 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 3
+[15-Jun-2021 12:09:18 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 3
+[15-Jun-2021 12:09:18 UTC] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 12:09:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 12:09:18 UTC] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 12:09:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 12:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function compress() in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 15
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined index: price in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 24
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: cat in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: scat in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: aname in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: aboutdes in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: location in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: address in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:55 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 34
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 34
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 34
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Notice:  Undefined index: image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 41
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 43
+[15-Jun-2021 17:39:56 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 43
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 8
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Undefined index: p_image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 14
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:41:42 Asia/Kolkata] PHP Notice:  Undefined variable: address in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[15-Jun-2021 17:55:41 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[16-Jun-2021 12:11:05 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_adverisement.php on line 25
+[21-Jun-2021 09:21:16 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:21:16 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:21:16 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:21:16 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:21:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:21:16 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:21:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:18 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:22:18 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:22:18 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:22:18 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:18 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:20 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:22:20 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:22:20 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:22:20 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:20 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:22:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:19 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:19 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:19 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:23:19 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:19 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:27 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:27 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:27 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:23:27 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:27 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:40 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:40 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:40 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:23:40 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:40 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:43 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:43 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:23:43 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:23:43 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:43 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:23:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:24:23 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:24:23 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 3
+[21-Jun-2021 09:24:23 UTC] PHP Notice:  Undefined index: ids in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 5
+[21-Jun-2021 09:24:23 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:24:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:24:23 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 09:24:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 14:56:44 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 14:58:45 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 14:58:48 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[21-Jun-2021 14:59:17 Asia/Kolkata] PHP Notice:  Undefined variable: user_id in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/delete_cat.php on line 8
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:29:36 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:29:36 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:29:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:09 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:09 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:11 UTC] PHP Notice:  Undefined index: image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 13
+[28-Jun-2021 04:30:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 13
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 13
+[28-Jun-2021 04:30:11 UTC] PHP Notice:  Undefined index: image in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 20
+[28-Jun-2021 04:30:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 22
+[28-Jun-2021 04:30:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 22
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:30:45 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:45 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:30:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 2
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  include(../inc/compression.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  include(): Failed opening '../inc/compression.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 3
+[28-Jun-2021 04:31:12 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:31:12 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 04:31:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/add_img.php on line 43
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 2
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 2
+[28-Jun-2021 05:30:54 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 9
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 9
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 10
+[28-Jun-2021 05:30:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 11
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  unlink(../upload/add/): Is a directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 25
+[28-Jun-2021 05:30:54 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:30:54 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:30:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  include(../inc/db.php): failed to open stream: No such file or directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 2
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  include(): Failed opening '../inc/db.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 2
+[28-Jun-2021 05:31:43 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 9
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 9
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 10
+[28-Jun-2021 05:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 11
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  unlink(../upload/add/): Is a directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 25
+[28-Jun-2021 05:31:43 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:31:43 UTC] PHP Notice:  Undefined variable: con in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 05:31:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 30
+[28-Jun-2021 11:02:09 Asia/Kolkata] PHP Notice:  Undefined index: img in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 11
+[28-Jun-2021 11:02:09 Asia/Kolkata] PHP Warning:  unlink(../upload/add/): Is a directory in /home/sparrowtechnolog/public_html/sailaser/pgrent/action/upd_pimg.php on line 25
+[09-Aug-2021 09:56:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 11
+[09-Aug-2021 09:56:38 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 12
+[09-Aug-2021 09:57:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 11
+[09-Aug-2021 09:57:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 12
+[09-Aug-2021 09:57:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 11
+[09-Aug-2021 09:57:15 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_login.php on line 12
+[09-Aug-2021 16:28:51 Asia/Kolkata] PHP Notice:  Undefined index: cat_img in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 7
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 7
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: name in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: one in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: two in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: three in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: four in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: five in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:28:52 Asia/Kolkata] PHP Notice:  Undefined variable: six in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: name in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: one in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: two in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: three in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: four in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: five in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
+[09-Aug-2021 16:29:21 Asia/Kolkata] PHP Notice:  Undefined variable: six in /home/sparrowtechnolog/public_html/businessidea/admin/action/add_spinner.php on line 23
